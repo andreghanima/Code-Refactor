@@ -1,0 +1,11 @@
+C:\Users\André Ghanima\Downloads\SodaMachine\ConsoleApplication1\ConsoleApplication\bin\Debug\netcoreapp2.1\ConsoleApplication.deps.json
+C:\Users\André Ghanima\Downloads\SodaMachine\ConsoleApplication1\ConsoleApplication\bin\Debug\netcoreapp2.1\ConsoleApplication.runtimeconfig.json
+C:\Users\André Ghanima\Downloads\SodaMachine\ConsoleApplication1\ConsoleApplication\bin\Debug\netcoreapp2.1\ConsoleApplication.runtimeconfig.dev.json
+C:\Users\André Ghanima\Downloads\SodaMachine\ConsoleApplication1\ConsoleApplication\bin\Debug\netcoreapp2.1\ConsoleApplication.dll
+C:\Users\André Ghanima\Downloads\SodaMachine\ConsoleApplication1\ConsoleApplication\bin\Debug\netcoreapp2.1\ConsoleApplication.pdb
+C:\Users\André Ghanima\Downloads\SodaMachine\ConsoleApplication1\ConsoleApplication\obj\Debug\netcoreapp2.1\ConsoleApplication.csprojAssemblyReference.cache
+C:\Users\André Ghanima\Downloads\SodaMachine\ConsoleApplication1\ConsoleApplication\obj\Debug\netcoreapp2.1\ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\André Ghanima\Downloads\SodaMachine\ConsoleApplication1\ConsoleApplication\obj\Debug\netcoreapp2.1\ConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\André Ghanima\Downloads\SodaMachine\ConsoleApplication1\ConsoleApplication\obj\Debug\netcoreapp2.1\ConsoleApplication.AssemblyInfo.cs
+C:\Users\André Ghanima\Downloads\SodaMachine\ConsoleApplication1\ConsoleApplication\obj\Debug\netcoreapp2.1\ConsoleApplication.dll
+C:\Users\André Ghanima\Downloads\SodaMachine\ConsoleApplication1\ConsoleApplication\obj\Debug\netcoreapp2.1\ConsoleApplication.pdb
