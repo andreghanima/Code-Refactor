@@ -1,2 +1,2 @@
-# CodeTest
-Min refaktorerte versjon av den orginale kode oppgaven. 
+# Code test refactor
+Min refaktorerte versjon av en vanlig konsoll applikasjon. 
